@@ -1,19 +1,19 @@
-[
-	{
-		"AllProducts": {
-			"MP-PPID1013" : {
-				"shade" : "Dark",
-				"supply" : 30
-			},
-			"MP-PPID1020" : {
-				"shade" : "Light",
-				"supply" : 30
-			},
-			"MP-PPID1029" : {
-				"shade" : "Dark",
-				"supply" : 90
-			}
 
+{
+	"AllProducts": {
+		"MP-PPID1013" : {
+			"shade" : "Dark",
+			"supply" : 30
+		},
+		"MP-PPID1020" : {
+			"shade" : "Light",
+			"supply" : 30
+		},
+		"MP-PPID1029" : {
+			"shade" : "Dark",
+			"supply" : 90
 		}
+
 	}
-]
+}
+
