@@ -1,26 +1,28 @@
 {
-	"AllProducts": [
-		{
-			"id": "MP-PPID1013",
-			"variants": {
-				"shade": "Dark",
-				"supply": 30
-			}
-		},
-		{
-			"id": "MP-PPID1020",			
-			"variants": {
-				"shade": "Light",
-				"supply": 30
-			}
-		},
-		{
-			"id": "MP-PPID1029",
-			"variants": {
-				"shade": "Light",
-				"supply": 30
-			}
-		}
-
+	"AllProducts":[
+	  {
+	    "id": "MP-PPID1013",
+	    "image": "3pc.png",
+	    "variants": {
+	      "shade": "Dark",
+	      "supply": 30      
+	    }
+	  },
+	  {
+	    "id": "MP-PPID1020",
+	    "image": "5pc.png",
+	    "variants": {
+	      "shade": "Light",
+	      "supply": 30
+	    }
+	  },
+	  {
+	    "id": "MP-PPID1029",
+	    "image": "dark30.png",
+	    "variants": {
+	      "shade": "Light",
+	      "supply": 30,
+	    }
+	  }
 	]
 }
