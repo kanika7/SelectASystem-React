@@ -21,7 +21,7 @@
 	    "image": "dark30.png",
 	    "variants": {
 	      "shade": "Light",
-	      "supply": 30,
+	      "supply": 30
 	    }
 	  }
 	]
