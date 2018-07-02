@@ -1,64 +1,66 @@
-[
-  {
-    "id": "MP-PPID1013",
-    "image": "3pc.png",
-    "variants": {
-      "shade": "Dark",
-      "supply": 30      
-    },
-    "supply": [
-		{
-			"supplySize": "30",
-			"tagLine": "Product 1's 30d supply",
-			"bannerText": "Cindys Choice",
-			"bannerType": "ribbon",
-			"showPrices": true,
-			"showLearnMore": true
-		}
+{
+	"AllProducts":[
+	  {
+	    "id": "MP-PPID1013",
+	    "image": "3pc.png",
+	    "variants": {
+	      "shade": "Dark",
+	      "supply": 30      
+	    },
+	    "supply": [
+			{
+				"supplySize": "30",
+				"tagLine": "Product 1's 30d supply",
+				"bannerText": "Cindys Choice",
+				"bannerType": "ribbon",
+				"showPrices": true,
+				"showLearnMore": true
+			}
+		]
+	  },
+	  {
+	    "id": "MP-PPID1020",
+	    "image": "5pc.png",
+	    "variants": {
+	      "shade": "Light",
+	      "supply": 30
+	    },
+	    "supply": [
+			{
+				"supplySize": "30",
+				"tagLine": "Product 2's 30d supply",
+				"bannerText": "Cindys Choice",
+				"bannerType": "ribbon",
+				"showPrices": true,
+				"showLearnMore": true
+			},
+			{
+				"supplySize": "90",
+				"tagLine": "Product 2's 90d supply",
+				"bannerText": "Cindys Choice",
+				"bannerType": "ribbon",
+				"showPrices": true,
+				"showLearnMore": true
+			}
+		]
+	  },
+	  {
+	    "id": "MP-PPID1029",
+	    "image": "dark30.png",
+	    "variants": {
+	      "shade": "Light",
+	      "supply": 30
+	    },
+	    "supply": [
+			{
+				"supplySize": "90",
+				"tagLine": "Product 2's 90d supply",
+				"bannerText": "Cindys Choice",
+				"bannerType": "ribbon",
+				"showPrices": true,
+				"showLearnMore": true
+			}
+		]
+	  }
 	]
-  },
-  {
-    "id": "MP-PPID1020",
-    "image": "5pc.png",
-    "variants": {
-      "shade": "Light",
-      "supply": 30
-    },
-    "supply": [
-		{
-			"supplySize": "30",
-			"tagLine": "Product 2's 30d supply",
-			"bannerText": "Cindys Choice",
-			"bannerType": "ribbon",
-			"showPrices": true,
-			"showLearnMore": true
-		},
-		{
-			"supplySize": "90",
-			"tagLine": "Product 2's 90d supply",
-			"bannerText": "Cindys Choice",
-			"bannerType": "ribbon",
-			"showPrices": true,
-			"showLearnMore": true
-		}
-	]
-  },
-  {
-    "id": "MP-PPID1029",
-    "image": "dark30.png",
-    "variants": {
-      "shade": "Light",
-      "supply": 30
-    },
-    "supply": [
-		{
-			"supplySize": "90",
-			"tagLine": "Product 2's 90d supply",
-			"bannerText": "Cindys Choice",
-			"bannerType": "ribbon",
-			"showPrices": true,
-			"showLearnMore": true
-		}
-	]
-  }
-]
+}
