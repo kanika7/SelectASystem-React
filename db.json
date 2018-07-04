@@ -10,7 +10,7 @@
 	    "variant": [
 			{
 				"name": "Dark",
-				"image": "dark.png",
+				"image": "dark.png"
 			},
 			{
 				"name": "Light",
@@ -38,11 +38,11 @@
 		"variant": [
 			{
 				"name": "Fair",
-				"image": "fair.png",
+				"image": "fair.png"
 			},
 			{
 				"name": "Light",
-				"image": "light.png",
+				"image": "light.png"
 			},
 			{
 				"name": "Medium",
@@ -78,11 +78,11 @@
 	    "variant": [
 			{
 				"name": "Dark",
-				"image": "dark.png",
+				"image": "dark.png"
 			},
 			{
 				"name": "Light",
-				"image": "light.png",
+				"image": "light.png"
 			},
 			{
 				"name": "Medium",
