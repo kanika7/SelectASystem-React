@@ -17,6 +17,7 @@
 			{
 				"supplySize": "30",
 				"tagLine": "Product 1's 30d supply",
+				"image": "dark90.png",
 				"bannerText": "Cindys Choice",
 				"bannerType": "ribbon",
 				"showPrices": true,
@@ -53,6 +54,7 @@
 			{
 				"supplySize": "30",
 				"tagLine": "Product 2's 30d supply",
+				"image": "dark90.png",
 				"bannerText": "Cindys Choice",
 				"bannerType": "ribbon",
 				"showPrices": true,
@@ -63,6 +65,7 @@
 			{
 				"supplySize": "90",
 				"tagLine": "Product 2's 90d supply",
+				"image": "dark90.png",
 				"bannerText": "Cindys Choice",
 				"bannerType": "ribbon",
 				"showPrices": true,
@@ -93,6 +96,7 @@
 			{
 				"supplySize": "90",
 				"tagLine": "Product 3's 90d supply",
+				"image": "dark90.png",
 				"bannerText": "Cindys Choice",
 				"bannerType": "ribbon",
 				"showPrices": true,
