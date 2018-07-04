@@ -106,5 +106,10 @@
 			}
 		]
 	  }
+	],
+	"displayOrder": [
+		"kit+shade",
+		"supply",
+		"gift"
 	]
 }
