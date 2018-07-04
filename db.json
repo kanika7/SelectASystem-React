@@ -21,7 +21,7 @@
 				"bannerType": "ribbon",
 				"showPrices": true,
 				"showLearnMore": true,
-				"description-title" : "Supply Description",
+				"descriptionTitle" : "Supply Description",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
 			}
 		]
@@ -33,19 +33,19 @@
 			{
 				"name": "Fair",
 				"image": "fair.png",
-				"description-title" : "Variant Description",
+				"descriptionTitle" : "Variant Description",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
 			},
 			{
 				"name": "Light",
 				"image": "light.png",
-				"description-title" : "Variant Description",
+				"descriptionTitle" : "Variant Description",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
 			},
 			{
 				"name": "Medium",
 				"image": "medium.png",
-				"description-title" : "Variant Description",
+				"descriptionTitle" : "Variant Description",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
 			}
 	    ],
@@ -57,7 +57,7 @@
 				"bannerType": "ribbon",
 				"showPrices": true,
 				"showLearnMore": true,
-				"description-title" : "Supply Description",
+				"descriptionTitle" : "Supply Description",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
 			},
 			{
@@ -67,7 +67,7 @@
 				"bannerType": "ribbon",
 				"showPrices": true,
 				"showLearnMore": true,
-				"description-title" : "Supply Description",
+				"descriptionTitle" : "Supply Description",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
 			}
 		]
