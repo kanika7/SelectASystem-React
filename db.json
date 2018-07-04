@@ -14,7 +14,7 @@
 			},
 			{
 				"name": "Light",
-				"image": "light.png",
+				"image": "light.png"
 			}
 	    ],
 	    "supply": [
@@ -46,7 +46,7 @@
 			},
 			{
 				"name": "Medium",
-				"image": "medium.png",
+				"image": "medium.png"
 			}
 	    ],
 	    "supply": [
@@ -86,7 +86,7 @@
 			},
 			{
 				"name": "Medium",
-				"image": "medium.png",
+				"image": "medium.png"
 			}
 	    ],
 	    "supply": [
