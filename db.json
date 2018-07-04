@@ -23,7 +23,7 @@
 				"showPrices": true,
 				"showLearnMore": true,
 				"descriptionTitle" : "Supply Description",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 			}
 		]
 	  },
@@ -35,19 +35,19 @@
 				"name": "Fair",
 				"image": "fair.png",
 				"descriptionTitle" : "Variant Description",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 			},
 			{
 				"name": "Light",
 				"image": "light.png",
 				"descriptionTitle" : "Variant Description",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 			},
 			{
 				"name": "Medium",
 				"image": "medium.png",
 				"descriptionTitle" : "Variant Description",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 			}
 	    ],
 	    "supply": [
@@ -60,7 +60,7 @@
 				"showPrices": true,
 				"showLearnMore": true,
 				"descriptionTitle" : "Supply Description",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 			},
 			{
 				"supplySize": "90",
@@ -71,7 +71,7 @@
 				"showPrices": true,
 				"showLearnMore": true,
 				"descriptionTitle" : "Supply Description",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 			}
 		]
 	  },
