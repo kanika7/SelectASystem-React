@@ -3,10 +3,20 @@
 	  {
 	    "id": "MP-PPID1013",
 	    "image": "3pc.png",
-	    "variants": {
+	    "variant": {
 	      "shade": "Dark",
 	      "supply": 30      
 	    },
+	    "variant": [
+			{
+				"name": "Dark",
+				"image": "dark.png",
+			},
+			{
+				"name": "Light",
+				"image": "light.png",
+			}
+	    ],
 	    "supply": [
 			{
 				"supplySize": "30",
@@ -25,6 +35,20 @@
 	      "shade": "Light",
 	      "supply": 30
 	    },
+		"variant": [
+			{
+				"name": "Fair",
+				"image": "fair.png",
+			},
+			{
+				"name": "Light",
+				"image": "light.png",
+			},
+			{
+				"name": "Medium",
+				"image": "medium.png",
+			}
+	    ],
 	    "supply": [
 			{
 				"supplySize": "30",
@@ -51,6 +75,20 @@
 	      "shade": "Light",
 	      "supply": 30
 	    },
+	    "variant": [
+			{
+				"name": "Dark",
+				"image": "dark.png",
+			},
+			{
+				"name": "Light",
+				"image": "light.png",
+			},
+			{
+				"name": "Medium",
+				"image": "medium.png",
+			}
+	    ],
 	    "supply": [
 			{
 				"supplySize": "90",
