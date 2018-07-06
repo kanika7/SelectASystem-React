@@ -1,5 +1,5 @@
 {
-	"Products": [{
+	"Products": {
 		"AllProducts": [{
 				"id": "MP-PPID1013",
 				"image": "3pc.png",
@@ -105,5 +105,5 @@
 			"supply",
 			"gift"
 		]
-	}]
+	}
 }
