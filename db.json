@@ -1,21 +1,18 @@
 {
-	"Products": {
-		"AllProducts":[
-		  {
-		    "id": "MP-PPID1013",
-		    "image": "3pc.png",
-		    "variant": [
-				{
-					"name": "Dark",
-					"image": "dark.png"
-				},
-				{
-					"name": "Light",
-					"image": "light.png"
-				}
-		    ],
-		    "supply": [
-				{
+	"Products": [{
+		"AllProducts": [{
+				"id": "MP-PPID1013",
+				"image": "3pc.png",
+				"variant": [{
+						"name": "Dark",
+						"image": "dark.png"
+					},
+					{
+						"name": "Light",
+						"image": "light.png"
+					}
+				],
+				"supply": [{
 					"supplySize": "30",
 					"tagLine": "Product 1's 30d supply",
 					"image": "dark90.png",
@@ -23,78 +20,73 @@
 					"bannerType": "ribbon",
 					"showPrices": true,
 					"showLearnMore": true,
-					"descriptionTitle" : "Supply Description",
+					"descriptionTitle": "Supply Description",
 					"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				}
-			]
-		  },
-		  {
-		    "id": "MP-PPID1020",
-		    "image": "5pc.png",
-			"variant": [
-				{
-					"name": "Fair",
-					"image": "fair.png",
-					"descriptionTitle" : "Variant Description",
-					"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				},
-				{
-					"name": "Light",
-					"image": "light.png",
-					"descriptionTitle" : "Variant Description",
-					"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				},
-				{
-					"name": "Medium",
-					"image": "medium.png",
-					"descriptionTitle" : "Variant Description",
-					"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				}
-		    ],
-		    "supply": [
-				{
-					"supplySize": "30",
-					"tagLine": "Product 2's 30d supply",
-					"image": "dark90.png",
-					"bannerText": "Cindys Choice",
-					"bannerType": "ribbon",
-					"showPrices": true,
-					"showLearnMore": true,
-					"descriptionTitle" : "Supply Description",
-					"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				},
-				{
-					"supplySize": "90",
-					"tagLine": "Product 2's 90d supply",
-					"image": "dark90.png",
-					"bannerText": "Cindys Choice",
-					"bannerType": "ribbon",
-					"showPrices": true,
-					"showLearnMore": true,
-					"descriptionTitle" : "Supply Description",
-					"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				}
-			]
-		  },
-		  {
-		    "id": "MP-PPID1029",
-		    "image": "dark30.png",
-		    "variant": [
-				{
-					"name": "Dark",
-					"image": "dark.png"
-				},
-				{
-					"name": "Light",
-					"image": "light.png"
-				},
-				{
-					"name": "Medium",
-					"image": "medium.png"
-				}
-		    ],
-		    "supply": [
-				{
+				}]
+			},
+			{
+				"id": "MP-PPID1020",
+				"image": "5pc.png",
+				"variant": [{
+						"name": "Fair",
+						"image": "fair.png",
+						"descriptionTitle": "Variant Description",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					},
+					{
+						"name": "Light",
+						"image": "light.png",
+						"descriptionTitle": "Variant Description",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					},
+					{
+						"name": "Medium",
+						"image": "medium.png",
+						"descriptionTitle": "Variant Description",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					}
+				],
+				"supply": [{
+						"supplySize": "30",
+						"tagLine": "Product 2's 30d supply",
+						"image": "dark90.png",
+						"bannerText": "Cindys Choice",
+						"bannerType": "ribbon",
+						"showPrices": true,
+						"showLearnMore": true,
+						"descriptionTitle": "Supply Description",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					},
+					{
+						"supplySize": "90",
+						"tagLine": "Product 2's 90d supply",
+						"image": "dark90.png",
+						"bannerText": "Cindys Choice",
+						"bannerType": "ribbon",
+						"showPrices": true,
+						"showLearnMore": true,
+						"descriptionTitle": "Supply Description",
+						"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+					}
+				]
+			},
+			{
+				"id": "MP-PPID1029",
+				"image": "dark30.png",
+				"variant": [{
+						"name": "Dark",
+						"image": "dark.png"
+					},
+					{
+						"name": "Light",
+						"image": "light.png"
+					},
+					{
+						"name": "Medium",
+						"image": "medium.png"
+					}
+				],
+				"supply": [{
 					"supplySize": "90",
 					"tagLine": "Product 3's 90d supply",
 					"image": "dark90.png",
@@ -102,16 +94,16 @@
 					"bannerType": "ribbon",
 					"showPrices": true,
 					"showLearnMore": true,
-					"description-title" : "Supply Description",
+					"description-title": "Supply Description",
 					"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
-				}
-			]
-		  }
+				}]
+			}
 		],
+
 		"displayOrder": [
 			"kit+shade",
 			"supply",
 			"gift"
 		]
-	}
+	}]
 }
